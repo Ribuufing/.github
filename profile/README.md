@@ -1,6 +1,6 @@
 # 🌟 Ribuufing
 
-Welcome to **Ribuufing**, a hub for innovative and collaborative mobile applications! We are a team of passionate developers, aiming to create smooth, functional, and aesthetically pleasing mobile solutions. 
+Welcome to **Ribuufing**, a hub for innovative and collaborative mobile applications! We are a team of passionate developers, aiming to create smooth, functional, and aesthetically pleasing mobile, backend and cloud solutions. 
 
 ---
 
