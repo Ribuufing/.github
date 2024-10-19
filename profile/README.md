@@ -9,7 +9,6 @@ Welcome to **Ribuufing**, a hub for innovative and collaborative mobile applicat
 Have questions or ideas? Feel free to reach out!
 
 📧 **Contact**: [ibedirhantong@gmail.com]  
-🌐 **Website**: [Coming Soon]
 
 ---
 
